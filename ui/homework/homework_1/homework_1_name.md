@@ -1,1 +1,1 @@
-Add your name here: "ta-academy"
+Add your name here: "Kornauhof Dmitriy"
