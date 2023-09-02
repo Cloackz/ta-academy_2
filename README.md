@@ -107,7 +107,8 @@ git pull origin master
 _______
 To get updates from remote repository to yours:
 
-``` 
+```
+git checkout master
 git pull academy master
 ``` 
 Enter commit message
